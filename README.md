@@ -1,7 +1,7 @@
 # Pong
 Pong written in C using SDL2
 # Dependencies
-SDL2 library v2.0.5 (https://www.libsdl.org/)
+SDL2 library (at least) v2.0.5 (https://www.libsdl.org/)
 # Build
 1. Add to 'include' path: SDL2/{include}
 2. Add to 'lib' path: SDL2/{lib/x64} (64-bit)
