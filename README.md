@@ -1,5 +1,5 @@
 # Pong
-Pong written in C using SDL2
+Pong written in C++ using SDL2
 # Dependencies
 SDL2 library (at least) v2.0.5 (https://www.libsdl.org/)
 # Build
